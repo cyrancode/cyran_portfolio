@@ -114,7 +114,7 @@ function Hero() {
           <div className="w-52 h-52 md:w-64 md:h-64 rounded-2xl overflow-hidden border-2 border-border">
             <img
               src={profile}
-              alt="Cyran Nkwain"
+              alt="Njua Cyran Nkwain, Full Stack and Mobile Developer"
               className="w-full h-full object-cover"
             />
           </div>
